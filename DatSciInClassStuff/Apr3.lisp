@@ -1,0 +1,5 @@
+(setf a (list 1 2 3 4)
+(car a)
+(car (cdr a))
+(car (cdr (cdr a))
+(car (cdr (cdr (cdr a))))
